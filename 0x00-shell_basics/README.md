@@ -1,1 +1,1 @@
-PWD shows the path of the current directory.
+ls is used for listing files
